@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+  
+  h1 {
+    font-family: "Indie Flower";
+    font-size: 5rem;
+    color: #DBEDF3;
+    text-shadow: 3px 0 #DA0463;
+  
+  
+  }
+  
+  .w {box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Audiowide"; 
+    font-size: 50px;
+    color: crimson;
+  }
+  
+  .a {box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Sofia";
+    font-size: 50px;
+    color: crimson;
+  
+  }
+  
+  .s {box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Trirong";
+    font-size: 50px;
+    color: crimson;
+  
+  }
+  
+  .d {box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Aboreto";
+    font-size: 50px;
+    color: crimson;
+  
+  }
+  
+  .j {
+    box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Dancing Script";
+    font-size: 50px;
+    color: crimson;
+  }
+  
+  .k {box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Pacifico";
+
+    font-size: 50px;
+    color: crimson;
+  
+  }
+  
+  .l {box-shadow: 10px 5px 5px rgb(7, 7, 7);
+    font-family: "Caveat";
+    font-size: 50px;
+    color: crimson;
+  
+  }
+ 
+  
+  .w {background-color:#dae0de;}
+  .a {background-color:#d1d8da;}
+  .s {background-color:#fcf9f8;}
+  .d {background-color:#f4f0f0;}
+  .j {background-color:#f7fcf7;}
+  .k {background-color:#f4f1f3;}
+  .l {background-color:#f7f3f3;}
