@@ -1,6 +1,6 @@
 # amfoss-task
 ## INTRODUCTION
-This is jatin k persuing mt B Tech in electronics and computers engineering at Amrita Vishwa Vidyapeetham, Amritapuri campus.My hobbies include playing badminton,chess,cricket.
+This is jatin k persuing  B Tech in electronics and computers engineering at Amrita Vishwa Vidyapeetham, Amritapuri campus.My hobbies include playing badminton,chess,cricket.
 I am very intrested to join this prestigious club,i looking forward to work on amazing open source software projects.
 ## **Why should we choose you?**
 I have a strong passion open source software,I am very eager to improve my skills and explore many things
