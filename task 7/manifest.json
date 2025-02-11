@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Weather Guardian",
+    "version": "1.0",
+    "description": "Get real-time weather data for any location",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "ex1.png",
+        "48": "ex1.png",
+        "128": "ex1.png"
+      }
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
